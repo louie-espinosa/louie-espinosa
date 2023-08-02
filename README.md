@@ -10,8 +10,8 @@
 - 
 - 📫 How to reach me: laespinosa@pm.me
 - 
-- ⚡ Fun fact: I love to sing, and have participated in karaoke in Mexico, Japan, Denmark, and the US, including at Geekdom in SA, Texas. I even won the grand prize of $500 in a karaoke competition in Whittier, CA
-Open timecapsule: https://www.facebook.com/watch/?ref=search&v=1116601631789715&external_log_id=b8ea3707-a335-489d-a0cf-700ff2f5193a&q=bambooze%20sushi%20and%20karaoke
+- ⚡ Fun fact: I love to sing, and have participated in karaoke in Mexico, Japan, Denmark, and the US, including at Geekdom in SA, Texas. I even won the grand prize of $500 in a karaoke competition in Whittier, CA.
+Timecapsule: https://www.facebook.com/watch/?ref=search&v=1116601631789715&external_log_id=b8ea3707-a335-489d-a0cf-700ff2f5193a&q=bambooze%20sushi%20and%20karaoke
 <!--
 **louie-espinosa/louie-espinosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

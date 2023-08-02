@@ -2,11 +2,9 @@
 
 - 🔭 I’m currently working on a cardgame that uses HTML, CSS, and JAVASCRIPT
 - 
-- 🌱 I’m also currently learning Classes in JavaScript
+- 🌱 I’m also currently learning Classes in JavaScript, as well as JavaScript libraries/frameworks, like React, JQuery, and how to use API calls with Artificial Intelligence
 - 
-- 👯 I’m looking to collaborate on anything that helps grow my knowledge and aids others in doing the same
-- 
-- 🤔 I’m looking for help with excelling in all aspects in life and teaching others how to do the same
+- 👯 I’m looking to collaborate on any project that helps grow my knowledge and aids others in doing the same
 - 
 - 💬 Ask me about my love of all music, including classical, rap, soul, R&B, Jazz, etc.
 - 

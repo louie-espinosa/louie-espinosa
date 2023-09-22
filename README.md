@@ -1,6 +1,6 @@
 ### Hey there, Hi there, Ho there! 👋
 
-- 🔭 I’m currently working on a cardgame that uses HTML, CSS, and JAVASCRIPT
+- 🔭 I’m currently working on responsive web design to prepare for a project, namely CSS media queries
 - 
 - 🌱 I’m also currently learning Classes in JavaScript, as well as JavaScript libraries/frameworks, like React, JQuery, and how to use API calls with Artificial Intelligence
 - 
